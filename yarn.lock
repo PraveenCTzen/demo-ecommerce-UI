@@ -3469,8 +3469,10 @@
   "resolved" "https://registry.npmjs.org/clean-stack/-/clean-stack-2.2.0.tgz"
   "version" "2.2.0"
 
-"clevertap-web-sdk@/Users/praveen.dangwani/Desktop/New folder/CT_WebSdk/clevertap-web-sdk/clevertap.js":
-  "resolved" "file:../../../clevertap-web-sdk/clevertap.js"
+"clevertap-web-sdk@^1.6.8":
+  "integrity" "sha512-y6mBKpa7foiCMCUn4IA7i7TNEfAcZDUDOdz+2HKn45YZFSNn7oHBUD71eurruSmHwo8PSlJXL/fpcVmHeAeb/w=="
+  "resolved" "https://registry.npmjs.org/clevertap-web-sdk/-/clevertap-web-sdk-1.6.8.tgz"
+  "version" "1.6.8"
 
 "cliui@^5.0.0":
   "integrity" "sha512-PYeGSEmmHM6zvoef2w8TPzlrnNpXIjTipYK780YswmIP9vjxmd6Y2a3CB2Ks6/AU8NHjZugXvo8w3oWM2qnwXA=="
