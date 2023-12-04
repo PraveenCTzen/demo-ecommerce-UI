@@ -83,7 +83,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>LAMA.</Logo>
+          <Logo>CLEVERTAP.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
